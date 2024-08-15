@@ -1,2 +1,3 @@
 #支持私库
-
+canal/canal-server:v1.1.5
+nginx
