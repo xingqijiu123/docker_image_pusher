@@ -1,4 +1,2 @@
 #支持私库
-foxiswho/rocketmq:server
 foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng
