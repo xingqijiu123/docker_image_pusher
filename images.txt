@@ -1,2 +1,2 @@
 #支持私库
-xuxueli/xxl-job-admin:2.4.0
+mongo:4.0.6
