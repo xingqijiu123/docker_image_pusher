@@ -1,2 +1,2 @@
 #支持私库
-foxiswho/rocketmq:broker
+xuxueli/xxl-job-admin:2.4.0
