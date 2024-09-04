@@ -1,2 +1,2 @@
 #支持私库
-ffdfgdfg/npc
+seataio/seata-server:1.6.1
