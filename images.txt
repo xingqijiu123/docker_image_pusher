@@ -1,2 +1,2 @@
 #支持私库
-ffdfgdfg/nps
+ffdfgdfg/npc
