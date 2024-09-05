@@ -1,2 +1,3 @@
 #支持私库
-seataio/seata-server:1.6.1
+apache/skywalking-oap-server:9.4.0
+apache/skywalking-ui:9.4.0
