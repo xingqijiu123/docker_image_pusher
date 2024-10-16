@@ -1,3 +1,2 @@
 #支持私库
-docker.io/kubernetesui/dashboard:v2.6.1
-docker.io/kubernetesui/metrics-scraper:v1.0.8
+flowable/flowable-ui:6.7.2
