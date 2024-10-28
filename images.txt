@@ -1,2 +1,2 @@
 #支持私库
-flowable/flowable-ui:6.7.2
+rustdesk/rustdesk-server:1.1.12
