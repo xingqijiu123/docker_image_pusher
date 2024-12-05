@@ -1,2 +1,1 @@
-#支持私库
-rustdesk/rustdesk-server:1.1.12
+mysql:latest
